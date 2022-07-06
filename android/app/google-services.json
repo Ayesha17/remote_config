@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108485194044",
+    "project_id": "rm-config",
+    "storage_bucket": "rm-config.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108485194044:android:a43215b70878a5fccc2e39",
+        "android_client_info": {
+          "package_name": "com.example.remoteConfig.remote_config"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108485194044-1mhqjnj5e7dtbj96iea42mk24tvv8oka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUTALwXjoHuunDZR3gBFHhVFQv3QiEirU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108485194044-1mhqjnj5e7dtbj96iea42mk24tvv8oka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
